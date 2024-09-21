@@ -25,8 +25,8 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | 12  | **Oracle VM에서 동일 IP 가상 머신 분리 및 외부 접근 설정 방법** | Oracle VM에서 동일 IP 가상 머신 분리 및 외부 접근 설정 방법 | Oracle VM VirtualBox, Mobaxterm, Ubuntu | [Tech Blog](https://solsolhane.tistory.com/142) | 2024-09-20 |
 | 13  | **PAM으로 리눅스 비밀번호 정책 설정하기** | PAM으로 리눅스 비밀번호 정책 설정하기 | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/143) | 2024-09-20 |
 | 14  | **** |  | | [Tech Blog]() | 2024-08-25 |
-| 15  | **** |  |  | [Tech Blog]() | 2024-08-25 |
-| 16  | **** |  | | [Tech Blog]() | 2024-08-25 |
+| 15  | **** |  | | [Tech Blog]() | 2024-08-25 |
+| 16  | **** |  | | [Tech Blog]() | 2024-08-25 |
 
 <br>
 
@@ -47,10 +47,10 @@ This category would cover areas related to coding and development frameworks lik
 | 10  | **클라이언트 GET 요청 시 서블릿까지 동작 원리** | 클라이언트 GET 요청 시 서블릿까지 동작 원리 |Java,Tomcat| [Tech Blog](https://solsolhane.tistory.com/127) | 2024-08-08 |
 | 11  | **@Modifying과 @Transactional의 연관성** | @Modifying과 @Transactional의 연관성 |Java, JPA| [Tech Blog](https://solsolhane.tistory.com/131) | 2024-08-08 |
 | 12  | **log4j2.xml 설정 파일의 태그 및 하위 요소 종류와 역할** | log4j2.xml 설정 파일의 태그 및 하위 요소 종류와 역할 |Java,Log4j| [Tech Blog](https://solsolhane.tistory.com/132) | 2024-08-16 |
-| 13  | **** |  |  | [Tech Blog]() | 2024-08-16 |
-| 14  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 15  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 16  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 13  | **** |  |  | [Tech Blog]() | 2024-08-16 |
+| 14  | **** |  |  | [Tech Blog]() | 2024-08-16 |
+| 15  | **** |  |  | [Tech Blog]() | 2024-08-16 |
+| 16  | **** |  |  | [Tech Blog]() | 2024-08-16 |
 
 ---
 
