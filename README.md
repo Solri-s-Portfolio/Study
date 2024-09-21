@@ -19,9 +19,14 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | 5  | **우분투 서버에 도커 설치 및 도커를 이용한 오라클 데이터베이스 설치** | 우분투 서버에 도커 설치 및 도커를 이용한 오라클 데이터베이스 설치 | UTM, Ubuntu, Docker, Oracle| [Tech Blog](https://solsolhane.tistory.com/117) | 2024-07-28 |
 | 6  | **우분투 서버의 MySQL을 DB 툴로 연결하는 방법** | 우분투 서버의 MySQL을 DB 툴로 연결하는 방법 | UTM, Ubuntu, MySQL| [Tech Blog](https://solsolhane.tistory.com/115) | 2024-07-28 |
 | 7  | **MySQL의 데이터를 ELK 스택으로 가져와서 시각화하기** | MySQL의 데이터를 ELK 스택으로 가져와서 시각화하기 | UTM, Ubuntu, MySQL, Elasticsearch, Logstash,Filebeats| [Tech Blog](https://solsolhane.tistory.com/116) | 2024-07-28 |
-| 8  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 9  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 10  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 8  | **Cisco Packet Trace 다운로드 및 Cisco IOS Sotfware Modes** | Cisco Packet Trace 다운로드 및 Cisco IOS Sotfware Modes |Cisco Packet Trace| [Tech Blog](https://solsolhane.tistory.com/134) | 2024-08-25 |
+| 9  | **스위치란?** | 스위치란? |Cisco Packet Trace|| [Tech Blog](https://solsolhane.tistory.com/135) | 2024-08-25 |
+| 11  | **라우터란?** | 라우터란? |Cisco Packet Trace| [Tech Blog](https://solsolhane.tistory.com/137) | 2024-08-25 |
+| 12  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 13  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 14  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 15  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 16  | **** |  |  | [Tech Blog]() | 2024-08-25 |
 
 <br>
 
@@ -35,14 +40,14 @@ This category would cover areas related to coding and development frameworks lik
 | 3  | **MVC (Model-View-Controller) 패턴에서의 예외처리** | MVC (Model-View-Controller) 패턴에서의 예외처리 |Java| [Tech Blog](https://solsolhane.tistory.com/114) | 2024-07-27 |
 | 4  | **JDBC란?** | JDBC란? | Java| [Tech Blog](https://solsolhane.tistory.com/119) | 2024-07-31 |
 | 5  | **JPA란?** | JPA란? | Java, JPA| [Tech Blog](https://solsolhane.tistory.com/120) | 2024-07-18 |
-| 6  | **Lombok이란?** | Lombok이란? | Java | [Tech Blog](https://solsolhane.tistory.com/122) | 2024-08-04 |
+| 6  | **Lombok이란?** | Lombok이란? |Java| [Tech Blog](https://solsolhane.tistory.com/122) | 2024-08-04 |
 | 7  | **Mac에서 Homebrew로 Apache Tomcat 설치** | Mac에서 Homebrew로 Apache Tomcat 설치 |Homebrew,Tomcat| [Tech Blog](https://solsolhane.tistory.com/124) | 2024-08-05 |
 | 8  | **STS에서 Tomcat 서버 추가** | STS에서 Tomcat 서버 추가 |STS,Tomcat| [Tech Blog](https://solsolhane.tistory.com/125) | 2024-08-16 |
 | 9  | **STS에서 war파일 import하기** | STS에서 war파일 import하기 |STS| [Tech Blog](https://solsolhane.tistory.com/126) | 2024-08-06 |
 | 10  | **클라이언트 GET 요청 시 서블릿까지 동작 원리** | 클라이언트 GET 요청 시 서블릿까지 동작 원리 |Java,Tomcat| [Tech Blog](https://solsolhane.tistory.com/127) | 2024-08-08 |
-| 11  | **** |  |  | [Tech Blog]() | 2024-08-08 |
-| 12  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 13  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 11  | **@Modifying과 @Transactional의 연관성** | @Modifying과 @Transactional의 연관성 |Java, JPA| [Tech Blog](https://solsolhane.tistory.com/131) | 2024-08-08 |
+| 12  | **log4j2.xml 설정 파일의 태그 및 하위 요소 종류와 역할** | log4j2.xml 설정 파일의 태그 및 하위 요소 종류와 역할 |Java,Log4j| [Tech Blog](https://solsolhane.tistory.com/132) | 2024-08-16 |
+| 13  | **** |  |  | [Tech Blog]() | 2024-08-16 |
 | 14  | **** |  |  | [Tech Blog]() | 2024-07-18 |
 | 15  | **** |  |  | [Tech Blog]() | 2024-07-18 |
 | 16  | **** |  |  | [Tech Blog]() | 2024-07-18 |
