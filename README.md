@@ -20,13 +20,13 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | 6  | **우분투 서버의 MySQL을 DB 툴로 연결하는 방법** | 우분투 서버의 MySQL을 DB 툴로 연결하는 방법 | UTM, Ubuntu, MySQL| [Tech Blog](https://solsolhane.tistory.com/115) | 2024-07-28 |
 | 7  | **MySQL의 데이터를 ELK 스택으로 가져와서 시각화하기** | MySQL의 데이터를 ELK 스택으로 가져와서 시각화하기 | UTM, Ubuntu, MySQL, Elasticsearch, Logstash,Filebeats| [Tech Blog](https://solsolhane.tistory.com/116) | 2024-07-28 |
 | 8  | **Cisco Packet Trace 다운로드 및 Cisco IOS Sotfware Modes** | Cisco Packet Trace 다운로드 및 Cisco IOS Sotfware Modes |Cisco Packet Trace| [Tech Blog](https://solsolhane.tistory.com/134) | 2024-08-25 |
-| 9  | **스위치란?** | 스위치란? |Cisco Packet Trace|| [Tech Blog](https://solsolhane.tistory.com/135) | 2024-08-25 |
+| 9  | **스위치란?** | 스위치란? |Cisco Packet Trace|| [Tech Blog](https://solsolhane.tistory.com/135) | 2024-09-25 |
 | 11  | **라우터란?** | 라우터란? |Cisco Packet Trace| [Tech Blog](https://solsolhane.tistory.com/137) | 2024-08-25 |
-| 12  | **** |  |  | [Tech Blog]() | 2024-08-25 |
-| 13  | **** |  |  | [Tech Blog]() | 2024-08-25 |
-| 14  | **** |  |  | [Tech Blog]() | 2024-08-25 |
-| 15  | **** |  |  | [Tech Blog]() | 2024-08-25 |
-| 16  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 12  | **Oracle VM에서 동일 IP 가상 머신 분리 및 외부 접근 설정 방법** | Oracle VM에서 동일 IP 가상 머신 분리 및 외부 접근 설정 방법 | Oracle VM VirtualBox, Mobaxterm, Ubuntu | [Tech Blog](https://solsolhane.tistory.com/142) | 2024-09-20 |
+| 13  | **PAM으로 리눅스 비밀번호 정책 설정하기** | PAM으로 리눅스 비밀번호 정책 설정하기 | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/143) | 2024-09-20 |
+| 14  | **** |  | | [Tech Blog]() | 2024-08-25 |
+| 15  | **** |  |  | [Tech Blog]() | 2024-08-25 |
+| 16  | **** |  | | [Tech Blog]() | 2024-08-25 |
 
 <br>
 
