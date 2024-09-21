@@ -36,10 +36,16 @@ This category would cover areas related to coding and development frameworks lik
 | 4  | **JDBC란?** | JDBC란? | Java| [Tech Blog](https://solsolhane.tistory.com/119) | 2024-07-31 |
 | 5  | **JPA란?** | JPA란? | Java, JPA| [Tech Blog](https://solsolhane.tistory.com/120) | 2024-07-18 |
 | 6  | **Lombok이란?** | Lombok이란? | Java | [Tech Blog](https://solsolhane.tistory.com/122) | 2024-08-04 |
-| 7  | **Mac에서 Homebrew로 Apache Tomcat 설치** | Mac에서 Homebrew로 Apache Tomcat 설치 | Homebrew, Tomcat| [Tech Blog](https://solsolhane.tistory.com/124) | 2024-08-05 |
-| 8  | **STS에서 Tomcat 서버 추가** | STS에서 Tomcat 서버 추가 | STS,Tomcat| [Tech Blog](https://solsolhane.tistory.com/125) | 2024-08-16 |
-| 9  | **** |  |  | [Tech Blog]() | 2024-07-18 |
-| 10  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 7  | **Mac에서 Homebrew로 Apache Tomcat 설치** | Mac에서 Homebrew로 Apache Tomcat 설치 |Homebrew,Tomcat| [Tech Blog](https://solsolhane.tistory.com/124) | 2024-08-05 |
+| 8  | **STS에서 Tomcat 서버 추가** | STS에서 Tomcat 서버 추가 |STS,Tomcat| [Tech Blog](https://solsolhane.tistory.com/125) | 2024-08-16 |
+| 9  | **STS에서 war파일 import하기** | STS에서 war파일 import하기 |STS| [Tech Blog](https://solsolhane.tistory.com/126) | 2024-08-06 |
+| 10  | **클라이언트 GET 요청 시 서블릿까지 동작 원리** | 클라이언트 GET 요청 시 서블릿까지 동작 원리 |Java,Tomcat| [Tech Blog](https://solsolhane.tistory.com/127) | 2024-08-08 |
+| 11  | **** |  |  | [Tech Blog]() | 2024-08-08 |
+| 12  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 13  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 14  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 15  | **** |  |  | [Tech Blog]() | 2024-07-18 |
+| 16  | **** |  |  | [Tech Blog]() | 2024-07-18 |
 
 ---
 
