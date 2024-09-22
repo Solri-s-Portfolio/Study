@@ -1,9 +1,14 @@
 # My Study
-*최종 업데이트: 2024년 9월 21일*
+<div align=left>
+<a href="https://solsolhane.tistory.com/" target="_blank">
+  <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory" alt="Tistory Badge"/>
+</a> 
+👈🏼click!
+</div>
 
 <br>
 
-안녕하세요! 이 레포지토리는 **스스로 탐구하고 공부한 것들**을 모아놓은 포트폴리오입니다.😊 <br>
+안녕하세요! 이 레포지토리는 **스스로 탐구하고 공부한 것들**을 모아놓은 곳입니다.😊 <br>
 
 <br>
 
