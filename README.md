@@ -29,7 +29,7 @@ This category focuses on networking, ELK Stack, and infrastructure management to
 | 11  | **라우터란?** |Cisco Packet Trace| [Tech Blog](https://solsolhane.tistory.com/137) | 2024-08-25 |
 | 12  | **Oracle VM에서 동일 IP 가상 머신 분리 및 외부 접근 설정 방법** | Oracle VM VirtualBox, Mobaxterm, Ubuntu | [Tech Blog](https://solsolhane.tistory.com/142) | 2024-09-20 |
 | 13  | **PAM으로 리눅스 비밀번호 정책 설정하기** | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/143) | 2024-09-20 |
-| 14  | **** | | [Tech Blog]() | 2024-08-25 |
+| 14  | **ShellScript과 Cron으로 자동화 시스템 구축하기** |Ubuntu, shellScript, cron| [Git hub](https://github.com/soljjang777/LinuxMater3) | 2024-09-22 |
 | 15  | **** | | [Tech Blog]() | 2024-08-25 |
 | 16  | **** | | [Tech Blog]() | 2024-08-25 |
 
