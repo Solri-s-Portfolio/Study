@@ -31,7 +31,10 @@ This category focuses on networking, ELK Stack, and infrastructure management to
 | 13  | **PAM으로 리눅스 비밀번호 정책 설정하기** | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/143) | 2024-09-20 |
 | 14  | **ShellScript과 Cron으로 자동화 시스템 구축하기** |Ubuntu, shellScript, cron| [Git hub](https://github.com/soljjang777/LinuxMater3) | 2024-09-23 |
 | 15  | **grep과 정규 표현식** | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/146) | 2024-09-25 |
-| 16  | **** | | [Tech Blog]() | 2024-08-25 |
+| 16  | **Docker로 MySQL 데이터 덤프 만들고 다른 컨테이너에 복원하기** | Ubuntu, Docker | [Tech Blog](https://solsolhane.tistory.com/147) | 2024-09-27 |
+| 17  | **** | | [Tech Blog]() | 2024-10-25 |
+| 18  | **** | | [Tech Blog]() | 2024-10-25 |
+| 19  | **** | | [Tech Blog]() | 2024-10-25 |
 
 <br>
 
@@ -59,4 +62,4 @@ This category covers areas related to coding and development frameworks like Jav
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2024-09-25 입니다.)
+이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2024-09-27 입니다.)
