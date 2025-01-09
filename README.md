@@ -32,9 +32,13 @@ This category focuses on networking, ELK Stack, and infrastructure management to
 | 14  | **ShellScript과 Cron으로 자동화 시스템 구축하기** |Ubuntu, shellScript, cron| [Git hub](https://github.com/soljjang777/LinuxMater3) | 2024-09-23 |
 | 15  | **grep과 정규 표현식** | Ubuntu | [Tech Blog](https://solsolhane.tistory.com/146) | 2024-09-25 |
 | 16  | **Docker로 MySQL 데이터 덤프 만들고 다른 컨테이너에 복원하기** | Ubuntu, Docker | [Tech Blog](https://solsolhane.tistory.com/147) | 2024-09-27 |
-| 17  | **** | | [Tech Blog]() | 2024-10-25 |
-| 18  | **** | | [Tech Blog]() | 2024-10-25 |
-| 19  | **** | | [Tech Blog]() | 2024-10-25 |
+| 17  | **Docker 명령어** | Docker | [Tech Blog](https://solsolhane.tistory.com/148) | 2024-09-27 |
+| 18  | **Docker에서 No space left on device 에러** | Docker| [Tech Blog](https://solsolhane.tistory.com/152) | 2024-10-14 |
+| 19  | **AWS 계정에 MFA (Multi-Factor Authentication) 적용 하기** | AWS| [Tech Blog](https://solsolhane.tistory.com/166) | 2024-12-31 |
+| 20  | **DNS(Domain Name System)란?** | DNS| [Tech Blog](https://solsolhane.tistory.com/167) | 2025-01-03 |
+| 21  | **** | | [Tech Blog]() | 2024-10-25 |
+| 22  | **** | | [Tech Blog]() | 2024-10-25 |
+| 23  | **** | | [Tech Blog]() | 2024-10-25 |
 
 <br>
 
@@ -55,11 +59,15 @@ This category covers areas related to coding and development frameworks like Jav
 | 10  | **클라이언트 GET 요청 시 서블릿까지 동작 원리** |Java,Tomcat| [Tech Blog](https://solsolhane.tistory.com/127) | 2024-08-08 |
 | 11  | **@Modifying과 @Transactional의 연관성** |Java, JPA| [Tech Blog](https://solsolhane.tistory.com/131) | 2024-08-08 |
 | 12  | **log4j2.xml 설정 파일의 태그 및 하위 요소 종류와 역할** |Java,Log4j| [Tech Blog](https://solsolhane.tistory.com/132) | 2024-08-16 |
-| 13  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 14  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 15  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 16  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 13  | **Git Commit Message Convention** | Git, Github | [Tech Blog](https://solsolhane.tistory.com/156) | 2024-11-10 |
+| 14  | **Git Pull Request Convention** | Git, Github  | [Tech Blog](https://solsolhane.tistory.com/157) | 2024-11-10 |
+| 15  | **Oracle [ORA-12541] no listener error** | Oracle | [Tech Blog](https://solsolhane.tistory.com/158) | 2024-11-10 |
+| 16  | **.gitignore에 node_modules/ 추가했지만 변경 사항이 있을 때 여전히 추적되는 일 발생** | Git, Github, Node.js | [Tech Blog](https://solsolhane.tistory.com/159) | 2024-11-10 |
+| 17  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 18  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 19  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 20  | **** |  | [Tech Blog]() | 2024-08-16 |
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2024-09-27 입니다.)
+이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2025-01-09 입니다.)
