@@ -63,11 +63,13 @@ This category covers areas related to coding and development frameworks like Jav
 | 14  | **Git Pull Request Convention** | Git, Github  | [Tech Blog](https://solsolhane.tistory.com/157) | 2024-11-10 |
 | 15  | **Oracle [ORA-12541] no listener error** | Oracle | [Tech Blog](https://solsolhane.tistory.com/158) | 2024-11-10 |
 | 16  | **.gitignore에 node_modules/ 추가했지만 변경 사항이 있을 때 여전히 추적되는 일 발생** | Git, Github, Node.js | [Tech Blog](https://solsolhane.tistory.com/159) | 2024-11-10 |
-| 17  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 18  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 19  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 17  | **Gradle 의존성 각 범위의 역할과 활용 방법** | Gradle | [Tech Blog](https://solsolhane.tistory.com/176) | 2025-01-07 |
+| 18  | **Linux에서 JWT Secret 생성 방법** | Linux, JWT | [Tech Blog](https://solsolhane.tistory.com/177) | 2025-01-11 |
+| 19  | **JWT란?** | JWT | [Tech Blog](https://solsolhane.tistory.com/178) | 2025-01-14 |
 | 20  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 21  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 22  | **** |  | [Tech Blog]() | 2024-08-16 |
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2025-01-09 입니다.)
+이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2025-01-14 입니다.)
