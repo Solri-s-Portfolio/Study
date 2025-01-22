@@ -66,10 +66,13 @@ This category covers areas related to coding and development frameworks like Jav
 | 17  | **Gradle 의존성 각 범위의 역할과 활용 방법** | Gradle | [Tech Blog](https://solsolhane.tistory.com/176) | 2025-01-07 |
 | 18  | **Linux에서 JWT Secret 생성 방법** | Linux, JWT | [Tech Blog](https://solsolhane.tistory.com/177) | 2025-01-11 |
 | 19  | **JWT란?** | JWT | [Tech Blog](https://solsolhane.tistory.com/178) | 2025-01-14 |
-| 20  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 21  | **** |  | [Tech Blog]() | 2024-08-16 |
-| 22  | **** |  | [Tech Blog]() | 2024-08-16 |
+| 20  | **HTTP Basic 인증** | Spring Security | [Tech Blog](https://solsolhane.tistory.com/179) | 2025-01-16 |
+| 21  | **HTML으로 자동 옵션 만들기** | HTML | [Tech Blog](https://solsolhane.tistory.com/180) | 2025-01-22 |
+| 22  | **** |  | [Tech Blog]() | 2025-08-16 |
+| 23  | **** |  | [Tech Blog]() | 2025-08-16 |
+| 24  | **** |  | [Tech Blog]() | 2025-08-16 |
+| 25  | **** |  | [Tech Blog]() | 2025-08-16 |
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2025-01-14 입니다.)
+이 포트폴리오는 지속적으로 업데이트됩니다. (최종 업데이트 2025-01-22 입니다.)
